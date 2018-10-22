@@ -11,4 +11,5 @@ The system works as follows:
 2. Predict next object position.
 3. Define which of the objects on the screen is the tracked object.
 4. Add current position to the trajectory list.
-5. Draw the interface.
+5. Calculate position of the object in space
+6. Draw the interface.
